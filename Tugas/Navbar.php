@@ -10,6 +10,8 @@
         <li><a class="dropdown-item" href="tugas2.php">Tugas 2</a></li>
         <li><hr class="dropdown-divider"></li>
         <li><a class="dropdown-item" href="tugas3.php">Tugas 3</a></li>
+        <li><hr class="dropdown-divider"></li>
+        <li><a class="dropdown-item" href="tugas4.php">Tugas 4</a></li>
         </ul>
     </li>
 </ul>
